@@ -3,7 +3,7 @@
         <title>Prueba</title>
     </head>
     <body>
-        Hola
+        Holaaaaaaaaaaaaaaa
     </body>
 </html>
 <?php
